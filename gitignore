@@ -1,0 +1,50 @@
+# Data files
+data/raw/**
+data/interim/**
+data/processed/**
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Model checkpoints
+outputs/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+wandb/
+mlruns/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hydra
+.multirun/
+
+# Streamlit
+.streamlit/secrets.toml
