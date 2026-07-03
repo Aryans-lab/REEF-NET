@@ -2,8 +2,8 @@
 
 > **Radiation-belt Electron Ensemble Forecaster** — forecasting energetic electron fluxes at geostationary orbit with Indian-longitude correction via ISRO's GRASP payload.
 
-**Status:** ISRO Bharatiya Antariksh Hackathon 2026 — Under Development  
-**Team:** REEF-NET (Asmit Chandra, Aryan Bandyopadhyay, Avinash Mishra, Faiz Ali)  
+**Status:** ISRO Bharatiya Antariksh Hackathon 2026   
+**Team:** REEF-NET (Aryan Bandyopadhyay, Asmit Chandra, Avinash Mishra, Faiz Ali)  
 **Institute:** NISER, Bhubaneswar
 
 ---
