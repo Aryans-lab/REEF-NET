@@ -1,0 +1,47 @@
+#This is the list of all possible requirements we will ever need, as of now we won't need few things
+
+# Core scientific stack
+numpy>=1.24,<2.0
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+plotly>=5.15
+seaborn>=0.13
+
+# Deep learning
+torch>=2.1
+pytorch-lightning>=2.1
+pytorch-forecasting>=1.0
+transformers>=4.36
+optuna>=3.4
+
+# Space physics data
+cdflib>=1.2
+spacepy>=0.5
+sunpy>=5.0
+astropy>=6.0
+cdasws>=1.1
+
+# Data engineering
+pyarrow>=14.0
+h5py>=3.10
+
+# Visualization / app
+streamlit>=1.29
+
+# Configuration
+omegaconf>=2.3
+hydra-core>=1.3
+
+# Reproducibility / testing
+pytest>=7.4
+pytest-cov>=4.1
+ruff>=0.1
+black>=23.12
+pre-commit>=3.6
+
+# Utilities
+tqdm>=4.66
+rich>=13.7
+joblib>=1.3
